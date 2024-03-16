@@ -5,10 +5,9 @@ You can try interactive dashboard [Healthcare Dashboard](https://app.powerbi.com
 
 ![image](https://github.com/FuadAnalyst/Portfolio-Poject-Healthcare/assets/156589453/f95358e5-99d5-4d5f-b9bc-e5373fdaf1af)
 
-##### P.S: Change "Zoom level" to 60%
+##### P.S: Change "Zoom level" to 65% or Click on the button "Fit to page"
 
-![image](https://github.com/FuadAnalyst/Portfolio-Poject-Healthcare/assets/156589453/8abb4237-bd27-4db7-8757-ea9419184fe2)
-
+![image](https://github.com/FuadAnalyst/Portfolio-Poject-Healthcare/assets/156589453/20b14123-83b2-4e5f-a9f7-cde019659481)
 
 ## Summary of Project
 #### Description: 
