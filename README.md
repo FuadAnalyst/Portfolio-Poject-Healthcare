@@ -10,7 +10,7 @@ You can try interactive dashboard [Healthcare Dashboard](https://app.powerbi.com
 ![image](https://github.com/FuadAnalyst/Portfolio-Poject-Healthcare/assets/156589453/20b14123-83b2-4e5f-a9f7-cde019659481)
 
 ## Summary of Project
-#### Description: 
+#### Description 📝: 
 In this peoject i wanted to practice my basic Docker skills which i learned from DE ZoomCamp, PostgreSQL skils, data ingestion to load data into PostgreSQL database using Python (sqlalchemy) and practice PowerBI skills. I used Python (sqlalchemy) to load data into PostgreSQL database which was created using Docker, then cleaned and analyzed data in PgAdmin4 and connected PostgreSQL server to PowerBI and created dashboard.
 
 #### Data Sources 📂:
